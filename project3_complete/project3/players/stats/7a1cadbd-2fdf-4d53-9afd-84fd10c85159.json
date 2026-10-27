@@ -1,0 +1,42 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 21325,
+      "minecraft:time_since_rest": 127850,
+      "minecraft:walk_one_cm": 64159,
+      "minecraft:total_world_time": 142871,
+      "minecraft:leave_game": 2,
+      "minecraft:fly_one_cm": 835441,
+      "minecraft:crouch_one_cm": 612,
+      "minecraft:sneak_time": 6128,
+      "minecraft:play_time": 127850,
+      "minecraft:jump": 122,
+      "minecraft:time_since_death": 127850,
+      "minecraft:drop": 2
+    },
+    "minecraft:dropped": {
+      "minecraft:redstone_torch": 1,
+      "minecraft:repeater": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:redstone_torch": 35,
+      "minecraft:redstone": 1033,
+      "minecraft:repeater": 218,
+      "minecraft:comparator": 54
+    },
+    "minecraft:used": {
+      "minecraft:yellow_concrete": 23,
+      "minecraft:magenta_stained_glass": 7,
+      "minecraft:repeater": 95,
+      "minecraft:redstone_torch": 37,
+      "minecraft:magenta_concrete": 95,
+      "minecraft:light_blue_concrete": 30,
+      "minecraft:lime_concrete": 188,
+      "minecraft:redstone": 304,
+      "minecraft:sandstone": 3,
+      "minecraft:brown_stained_glass": 7,
+      "minecraft:brown_concrete": 5
+    }
+  },
+  "DataVersion": 5023
+}
